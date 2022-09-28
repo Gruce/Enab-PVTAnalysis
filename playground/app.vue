@@ -11,9 +11,10 @@
   const appManager = useAppManager()
   // App Configuration
   appManager.addApp({
-      "name": "Enab",
-      "title": "تطبيقي الخاص",
+      "name": "PVTAnalysis",
+      "title": "تحليل الموائع المكمنية",
       "minWidth": 400,
       "minHeight": 300,
+      "maximized": true
   })
 </script>

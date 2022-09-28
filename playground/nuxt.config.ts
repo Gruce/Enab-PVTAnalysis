@@ -9,6 +9,7 @@ export default defineNuxtConfig({
         '@enab/systemapps',
         '@enab/utilities',
         '@enab/core',
+        'nuxt-lodash',
         '@nuxt/image-edge',
         '@nuxtjs/supabase',
         '@pinia/nuxt',
